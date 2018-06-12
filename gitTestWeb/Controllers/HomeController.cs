@@ -17,7 +17,7 @@ namespace gitTestWeb.Controllers
 
         public IActionResult About()
         {
-            ViewData["Message"] = "Your application local code description page.";
+            ViewData["Message"] = "Your application local code description sfsf  page.";
 
             return View();
         }
